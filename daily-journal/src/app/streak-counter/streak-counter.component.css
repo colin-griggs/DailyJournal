@@ -1,0 +1,15 @@
+.streak-counter-container {
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+  }
+  
+  h1 {
+    font-size: 2rem;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
